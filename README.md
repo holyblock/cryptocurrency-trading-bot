@@ -5,10 +5,6 @@ Our DeFi trading bot is an innovative solution for automated trading. Its setup 
 
 ## Download here
 
-- https://t.me/sniperbotdefi
-- https://t.me/sniperbotdefi
-- https://t.me/sniperbotdefi
-
 ![](https://i.ibb.co/Gvb9XYj/main1.png)
 ![](https://i.ibb.co/80qG8KP/main2.png)
 ![](https://i.ibb.co/Hnhnb55/main3.png)
